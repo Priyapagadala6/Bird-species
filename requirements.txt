@@ -6,5 +6,4 @@ tensorflow==2.15.1
 Pillow==9.2.0
 matplotlib==3.5.3
 opencv-python==4.6.0.66
-
-
+altair==5.3.0  # Added altair for Streamlit compatibility
