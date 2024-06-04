@@ -2,5 +2,8 @@ streamlit==1.14.0
 numpy==1.23.3
 pandas==1.4.4
 scikit-learn==1.1.3
-tensorflow==2.10.0 # or torch==1.12.1 if you used PyTorch
-Pillow==9.2.0 # for image handling
+tensorflow==2.15.1
+Pillow==9.2.0
+matplotlib==3.5.3
+opencv-python==4.6.0.66
+
